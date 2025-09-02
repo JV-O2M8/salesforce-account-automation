@@ -1,3 +1,4 @@
+![Screenshot 1](p1.png)
 # Salesforce Account & Contact Automation with n8n
 
 Automates creating or updating Salesforce accounts and contacts from Google Sheets.
